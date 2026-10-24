@@ -1,0 +1,13 @@
+[menu]
+background                = "#15161A"
+background-alpha          = 1.0
+text                      = "#ECEAE5"
+border                    = "#24252C"
+border-alpha              = 1.0
+scrim                     = "#0A0A0C"
+scrim-alpha               = 0.5
+selected-background       = "#24252C"
+selected-background-alpha = 1.0
+selected-text             = "#ECEAE5"
+selected-border           = "#E0283A"
+selected-border-alpha     = 1.0

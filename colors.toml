@@ -1,0 +1,37 @@
+# Blackbird: SR-71. Iron-ball black, insignia red, titanium.
+mode = "dark"
+
+accent = "#E0283A"
+selection = "#3A1218"
+selection_background = "#3A1218"
+selection_foreground = "#ECEAE5"
+muted = "#8A8C94"
+
+background = "#0A0A0C"
+dark_background = "#08080A"
+darker_background = "#050506"
+lighter_background = "#15161A"
+
+foreground = "#ECEAE5"
+dark_foreground = "#5E6068"
+light_foreground = "#BDBAB3"
+bright_foreground = "#F4F2ED"
+
+hyprland_active_border = "#E0283A"
+hyprland_inactive_border = "#24252C"
+
+red = "#C81E2E"
+yellow = "#C29A55"
+orange = "#C29A55"
+green = "#7F8F72"
+cyan = "#6E8A8A"
+blue = "#66717F"
+magenta = "#9C3B4E"
+brown = "#614D2B"
+
+bright_red = "#FF4B4B"
+bright_yellow = "#E2BE7A"
+bright_green = "#A3B394"
+bright_cyan = "#9FBDBD"
+bright_blue = "#8E9AAB"
+bright_magenta = "#D06A7B"
