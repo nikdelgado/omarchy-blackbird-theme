@@ -8,7 +8,7 @@ titanium grey, and one accent: the red of the SR-71's insignia.
 ## Install
 
 ```bash
-omarchy theme install https://github.com/<you>/omarchy-blackbird-theme
+omarchy theme install https://github.com/nikdelgado/omarchy-blackbird-theme
 omarchy theme set blackbird
 ```
 
