@@ -37,3 +37,7 @@ The ANSI colors are muted on purpose so red stays the only loud color.
 - `icons.theme`: Yaru-red.
 - `backgrounds/`: the SR-71 head-on on pure black, 5160×2160. Fits ultrawide
   screens and center-crops cleanly to 16:9.
+
+## Credits
+
+Wallpaper generated with Midjourney.
